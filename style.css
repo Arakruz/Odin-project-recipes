@@ -1,0 +1,40 @@
+* {
+    background-color: #121212;
+    color: #FFFFFF;
+}
+
+a {
+    color: #BB86FC;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    font-size: 16px;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+}
+
+.top-bar {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+
+.home {
+    width: 5%;
+}
+
+.tittle {
+    text-align: center;
+    width: 95%;
+}
+
+img {
+    height: 500px;
+}
